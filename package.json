@@ -1,12 +1,12 @@
 {
-  "name": "sunburst",
+  "name": "low-sunburst",
   "theme": "syntax",
-  "version": "0.3.0",
+  "version": "0.0.1",
   "private": false,
-  "description": "An atom port of the TextMate Sunburst theme",
-  "repository": "https://github.com/npverni/atom-sunburst",
+  "description": "An atom port of the TextMate Sunburst theme, tweaked by Low for Atom 1.13.0 and up",
+  "repository": "https://github.com/low/atom-sunburst",
   "license": "MIT",
   "engines": {
-    "atom": ">0.50.0"
+    "atom": ">1.13.0"
   }
 }
